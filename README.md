@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World! I'm Risky Ananta Pradana👋
+![risky](img/github-header-banner.png)
 
 <!--
 **riskyananta29/riskyananta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+🧑‍🎓**I’m Studying to become a programmer ...**
+<p align="justify">Hello👋, I’m a Computer Science student at the State Islamic University of North Sumatra, currently pursuing my dream of becoming a great programmer. With the prayers and support of my friends, I aim to stay passionate and keep growing in the challenging world of IT.</p>
+
+![happy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc3c2d0OTA3cmR6d3I2cHRxMWttNmNhYm55cHVsdGRvNWhzajl4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
